@@ -1,0 +1,13 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="exit button">
+<rect id="Rectangle 161125424" width="25" height="25" fill="white"/>
+<rect id="Rectangle 161125425" x="1.5" y="1.5" width="22" height="22" stroke="url(#paint0_linear_0_6)" stroke-opacity="0.5" stroke-width="3"/>
+<path id="Vector 1" opacity="0.8" d="M16.6662 8.33334L12.4995 12.5M8.33287 16.6667L12.4995 12.5M12.4995 12.5L8.33287 8.33334L16.6662 16.6667" stroke="#1A1A1A" stroke-width="3"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_6" x1="12.0831" y1="12.4195" x2="3.77955" y2="-2.21067" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1A1A1A" stop-opacity="0"/>
+<stop offset="1" stop-color="#1A1A1A"/>
+</linearGradient>
+</defs>
+</svg>
